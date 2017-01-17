@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ind_tutoring"
+            android:title="@string/ind_tutoring" />
+        <item
+            android:id="@+id/nav_group_tutoring"
+            android:title="@string/group_tutoring" />
+        <item
+            android:id="@+id/nav_chat_rooms"
+            android:title="@string/chat_rooms" />
+        <item
+            android:id="@+id/nav_my_profile"
+            android:title="@string/my_profile" />
+        <item
+            android:id="@+id/nav_settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_about_us"
+            android:title="About Us" />
+    </group>
+
+</menu>

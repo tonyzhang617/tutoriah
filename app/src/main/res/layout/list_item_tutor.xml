@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:padding="8dp"
+    android:gravity="center_vertical"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_margin="4dp"
+        android:layout_width="84dp"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:id="@+id/image_prof_pic"
+        android:src="@mipmap/pp_default"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/text_name"
+            android:text="Storm Trooper"
+            android:textStyle="bold"
+            android:textAppearance="@android:style/TextAppearance.Medium"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@android:style/TextAppearance.Material.Small"
+            android:text="Star Wars"
+            android:textStyle="italic"
+            android:id="@+id/text_subjects"/>
+
+        <RatingBar
+            android:layout_width="wrap_content"
+            style="?android:ratingBarStyleSmall"
+            android:layout_height="wrap_content"
+            android:stepSize="0.1"
+            android:rating="5.0"
+            android:id="@+id/ratingBar" />
+
+    </LinearLayout>
+
+</LinearLayout>
