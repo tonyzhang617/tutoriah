@@ -5,5 +5,5 @@ Here are some screenshots of the app:
 ![Welcome Screen](/images/welcome.png?raw=true "Welcome Screen")
 ![Sign Up Screen](/images/sign_up.png?raw=true "Sign Up Screen")
 ![Tutor List](/images/tutors.png?raw=true "Tutor List")
-![About Us](/images/about_us?raw=true "About Us")
+![About Us](/images/about_us.png?raw=true "About Us")
 
