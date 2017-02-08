@@ -6,4 +6,4 @@ Here are some screenshots of the app:
 ![Sign Up Screen](/images/sign_up.png?raw=true "Sign Up Screen")
 ![Tutor List](/images/tutors.png?raw=true "Tutor List")
 ![About Us](/images/about_us.png?raw=true "About Us")
-
+![Navigation Drawer](/images/side_bar_2.png?raw=true "Navigation Drawer")
